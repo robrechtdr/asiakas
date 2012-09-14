@@ -6,7 +6,7 @@ setup(
     author='Robrecht De Rouck',
     author_email='Robrecht.De.Rouck@gmail.com',
     packages=['asiakas', ],
-    package_data={'': ['ascii.txt']},
+    package_data={'': ['ascii-art.txt']},
     entry_points={
     'console_scripts': ['asiakas = asiakas:main', ],},
     description='A tiny python text-based web browser.',
