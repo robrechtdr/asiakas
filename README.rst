@@ -1,0 +1,18 @@
+Asiakas: A tiny python text-based web browser
+============================================
+
+**Asiakas** is kept small on purpose as to serve as a simple code example of how a web browser works.
+
+.. image:: https://github.com/RobrechtDR/asiakas/raw/master/misc/Asiakas.png
+
+The purpose of Asiakas is to serve as a code example but if you want to install it to your system do the following::
+ 
+    $ git clone https://github.com/RobrechtDR/asiakas.git
+    $ pip install asiakas/dist/Asiakas-0.0.0.tar.gz
+
+Then run the following command::
+
+    $ asiakas
+
+
+
