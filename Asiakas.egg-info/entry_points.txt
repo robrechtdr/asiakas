@@ -1,0 +1,3 @@
+[console_scripts]
+asiakas = asiakas:main
+

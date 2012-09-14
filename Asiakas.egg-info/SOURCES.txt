@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+setup.py
+Asiakas.egg-info/PKG-INFO
+Asiakas.egg-info/SOURCES.txt
+Asiakas.egg-info/dependency_links.txt
+Asiakas.egg-info/entry_points.txt
+Asiakas.egg-info/requires.txt
+Asiakas.egg-info/top_level.txt
+asiakas/__init__.py
+asiakas/ascii-art.txt
