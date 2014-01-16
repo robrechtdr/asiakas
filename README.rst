@@ -1,7 +1,11 @@
-Asiakas: A tiny python text-based web browser
-============================================
+Asiakas: A tiny text-based web browser in Python
+================================================
 
-**Asiakas** is kept small on purpose as to serve as a simple code example of how a web browser works.
+
+**Asiakas** serves as an example of ...
+
+  * ... how `setup.py` looks like for a Python program consisting out of only one file. 
+  * ... how a simplified browser works.
 
 .. image:: https://github.com/RobrechtDR/asiakas/raw/master/misc/Asiakas.png
 
@@ -13,6 +17,4 @@ The purpose of Asiakas is to serve as a code example but if you want to run it f
 Then run the following command::
 
     $ asiakas
-
-
 
