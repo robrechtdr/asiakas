@@ -1,8 +1,7 @@
-from __future__ import with_statement
 import requests
 import html2text
-import os.path
 import pyfiglet
+
 
 def get_request(url):
     req_get = requests.get(url)
