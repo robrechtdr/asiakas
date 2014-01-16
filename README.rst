@@ -9,7 +9,7 @@ Asiakas: A tiny text-based web browser in Python
 
 .. image:: https://github.com/RobrechtDR/asiakas/raw/master/misc/Asiakas.png
 
-The purpose of Asiakas is to serve as a code example but if you want to run it from any location on your system do the following::
+If you want to run it from any location on your system do the following::
  
     $ git clone https://github.com/RobrechtDR/asiakas.git
     $ pip install asiakas/dist/Asiakas-0.0.0.tar.gz
