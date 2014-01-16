@@ -4,7 +4,7 @@ Asiakas: A tiny text-based web browser in Python
 
 **Asiakas** serves as an example of ...
 
-* ... how `setup.py` looks like for a Python program consisting out of only one file.  
+* ... how ``setup.py`` looks like for a Python program consisting out of only one file.  
 * ... how a simplified browser works.
 
 .. image:: https://github.com/RobrechtDR/asiakas/raw/master/misc/Asiakas.png
